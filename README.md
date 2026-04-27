@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Focus-Backend%20Web%20Dev-7c3aed?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Based%20in-Germany%20%F0%9F%87%A9%F0%9F%87%AA-302B63?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/From-Romania%20%F0%9F%87%B7%F0%9F%87%B4-302B63?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Open%20To-Freelance-a78bfa?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
 <br/>
