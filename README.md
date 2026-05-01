@@ -52,11 +52,11 @@
 <p align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=Alexandru-WebDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=16&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
   &nbsp;
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=SirAlex-WebDev&theme=tokyonight&hide_border=true&border_radius=16&background=0D1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa"/>
+  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandru-WebDev&theme=tokyonight&hide_border=true&border_radius=16&background=0D1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirAlex-WebDev&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&layout=donut-vertical&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandru-WebDev&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&layout=donut-vertical&langs_count=8"/>
 </p>
 
 ---
@@ -84,7 +84,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SirAlex-WebDev&label=Profile+Views&color=7c3aed&style=for-the-badge&abbreviated=true"/>
+  <img src="https://komarev.com/ghpvc/?username=Alexandru-WebDev&label=Profile+Views&color=7c3aed&style=for-the-badge&abbreviated=true"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=130&section=footer"/>
